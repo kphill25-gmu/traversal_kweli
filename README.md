@@ -1,2 +1,2 @@
 # traversal_kweli
-I recreated original project, added better lights, and added sound to level. 
+I added a start menu and a pause menu
