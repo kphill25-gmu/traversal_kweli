@@ -1,2 +1,2 @@
 # traversal_kweli
-I added a start menu and a pause menu
+I added two puzzles to the level
